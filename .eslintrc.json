@@ -5,8 +5,7 @@
   },
   "env": {
     "commonjs": true,
-    "node": true,
-    "html": false
+    "node": true
   },
   "rules": {
     "no-console": 0,
