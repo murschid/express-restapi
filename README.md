@@ -1,0 +1,1 @@
+<h1>It's a Node JS REST API boilerplate project based on Express framework and Mongodb database.</h1>
